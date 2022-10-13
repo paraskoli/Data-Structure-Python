@@ -4,3 +4,6 @@ print(a)
 set1=set()
 print(type(set1))
 
+set2={"paras","sonu","koli"}
+print(set2)
+
