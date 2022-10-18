@@ -5,3 +5,12 @@ set2={9,7,6,4,3,2,7,8}
 set3=set1.union(set2) #use for union of set
 print(set3)
 
+#intersection
+# set4=set1&set2
+set4=set1.intersection(set2)
+print(set4)
+
+set6={5,6,7}
+set7={1,2,3}
+set9=set6-set7
+print(set9)
