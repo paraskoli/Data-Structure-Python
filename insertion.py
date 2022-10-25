@@ -20,11 +20,9 @@ def insertionSort(arr):
 #sorting the array [12, 11, 13, 5, 6] using insertionSort
 arr = [18,5,6,8,9]
 insertionSort(arr)
-lst = [] #empty list to store sorted elements
+lst = [] #Empty list
 print("Sorted array is : ")
 for i in range(len(arr)):
 	lst.append(arr[i])	 #appending the elements in sorted order
 print(lst)
 
-
-# This code is contributed by Mohit Kumra
