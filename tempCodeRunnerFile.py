@@ -1,5 +1,2 @@
-age=int(input("Enter your age \n"))
-# if age:
-#     print("you can vote")
-# else:
-#     print("you can not vote")
+or y in array2:
+    print(y)
