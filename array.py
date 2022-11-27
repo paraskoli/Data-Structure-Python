@@ -6,8 +6,9 @@
 
 from array import *
 
-array1 = array('i', [10,20,30,40,50])
+array1 = array('i', [10,20,30,40,50,54,554,54,54,54,5,4])
 
 print (array1[0])
 
 print (array1[2])
+print(array)
