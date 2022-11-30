@@ -7,8 +7,12 @@ KeyError: 'Alice'
 #!/usr/bin/python
 
 dict = {'Name': 'Zara', 'Age': 7, 'Class': 'First'}
-dict['Age'] = 8; # update existing entry
-dict['School'] = "DPS School"; # Add new entry
+dict['Age'] = 15; # update existing entry
+dict['School'] = "Bloomig dales modern public school"; # Add new entry
+
+print "dict['Age']: ", dict['Age']
+print "dict['School']: ", dict['School']
+
 
 print "dict['Age']: ", dict['Age']
 print "dict['School']: ", dict['School']
