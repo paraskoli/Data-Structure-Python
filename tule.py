@@ -21,6 +21,8 @@
 # Tuple3 = ((1, "goat"), ( 2, "ziraf"), (3, "cat"), (4, "tiger"))
 # print(Tuple1,Tuple2,Tuple3)
 
-my_tuple=(8,8,6,8)
+my_tuple=(8,8,54.545,5,45,4,54,54,6,8)
 print(my_tuple)
 print(my_tuple[0])
+
+print(my_tuple)
