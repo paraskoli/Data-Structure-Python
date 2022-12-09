@@ -12,3 +12,4 @@ class <ClassName>:
    def <method_name>(self, <param1>, ...):
        <code>
 
+inngfg
