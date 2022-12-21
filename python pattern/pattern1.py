@@ -1,5 +1,3 @@
-
-# Python program to print pattern G
 def Pattern(line):
     pat=""
     for i in range(0,line):   
